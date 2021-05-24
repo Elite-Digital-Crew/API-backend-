@@ -1,2 +1,2 @@
-# HustleX-back-End
-All our code for the Back End part 
+# HustleX-api-backend
+All our code for the API part
